@@ -45,3 +45,10 @@ h1 {
 p {
     font-size: 20px
 }
+.caregoria-videos-img {
+    opacity: o.5;
+    heigth: 200px;
+}
+.categoria-videos img: hover {
+    opacity: 1.0;
+    border: 3px solid green;
